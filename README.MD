@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, It's Georges Machhour !</h1>
 <h3 align="center">CCE student</h3>
 
-<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=fares-ef&label=Profile%20views&color=0e75b6&style=flat" alt="fares-ef" /> </p>><!--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://images.cults3d.com/uhyzDKKCAxPt-W1_GCrbiD6Ix4g=/113x113/top/filters:format(webp)/https://fbi.cults3d.com/uploaders/13841081/illustration-file/b21c7a0c-1acd-4aa1-ac50-05898d1ddf94/Kali-logo.jpg" alt="kali" width="40" height="40"/> </a> 
 
-<a href="https://www.parrotsec.org" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/sA3Bx9WPvcNg/parrot-security" alt="Parrot OS" width="40" height="40"/> </a> 
+<a href="https://www.parrotsec.org" target="_blank" rel="noreferrer"> <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+<circle cx="24" cy="24" r="20" fill="#4dd0e1"></circle><polygon fill="#212121" points="30.252,38.194 21.909,23.131 25.497,18.651 38.914,13.097 25.497,13.394 34.229,8.8 17.634,11.406 16.263,18.171 9.566,18.606 8.4,24.343 11.76,21.6 22.206,32.069 30.434,41.28 27.692,35.52"></polygon>
+</svg> </a> 
 
 
   <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a> 
