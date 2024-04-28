@@ -24,7 +24,7 @@
   <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://images.cults3d.com/uhyzDKKCAxPt-W1_GCrbiD6Ix4g=/113x113/top/filters:format(webp)/https://fbi.cults3d.com/uploaders/13841081/illustration-file/b21c7a0c-1acd-4aa1-ac50-05898d1ddf94/Kali-logo.jpg" alt="kali" width="40" height="40"/> </a> 
 
 <a href="https://www.parrotsec.org" target="_blank" rel="noreferrer">
-    <img src="https://grepitout.com/wp-content/uploads/2017/08/default-1320x743.jpg" alt="Parrot OS" width="40" height="40">
+    <img src="https://wltech.com.br/wp-content/uploads/2019/03/Logo-Parrot-300x257.jpg" alt="Parrot OS" width="40" height="40">
 </a>
 
 
