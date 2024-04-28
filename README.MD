@@ -24,7 +24,7 @@
   <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" alt="kali" width="40" height="40"/> </a> 
   <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a> 
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/> </a> 
-  <a href="https://www.cisco.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="cisco" width="40" height="40"/> </a> 
+  <a href="https://www.cisco.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.3d98eb3871f42ed7f81737063b7d5511?rik=Dc%2flz7Mx3L3YLQ&pid=ImgRaw&r=0" alt="cisco" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
