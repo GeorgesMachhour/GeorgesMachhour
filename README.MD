@@ -23,7 +23,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://images.cults3d.com/uhyzDKKCAxPt-W1_GCrbiD6Ix4g=/113x113/top/filters:format(webp)/https://fbi.cults3d.com/uploaders/13841081/illustration-file/b21c7a0c-1acd-4aa1-ac50-05898d1ddf94/Kali-logo.jpg" alt="kali" width="40" height="40"/> </a> 
 
-<a href="https://www.parrotsec.org" target="_blank" rel="noreferrer"> <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Flinux-os-review-v0-320m6esfiaxc1.jpeg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D7dd82203a38420dc7ade1358f9ee394e28a937bc" alt="Parrot OS" width="40" height="40"/> </a> 
+<a href="https://www.parrotsec.org" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/sA3Bx9WPvcNg/parrot-security" alt="Parrot OS" width="40" height="40"/> </a> 
 
 
   <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a> 
