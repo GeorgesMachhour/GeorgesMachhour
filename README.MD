@@ -25,10 +25,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
    <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.330661976.3438/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" alt="kali" width="40" height="40"/> </a> 
-
-              <a href="https://www.parrotsec.org" target="_blank" rel="noreferrer">
-                  <img src="https://th.bing.com/th/id/R.5882d0fb110b778a2887634304423e61?rik=tXxqvcFYygX4vA&pid=ImgRaw&r=0" alt="Parrot OS" width="40" height="40">
-              </a>
+<a href="https://www.parrotsec.org" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.5882d0fb110b778a2887634304423e61?rik=tXxqvcFYygX4vA&pid=ImgRaw&r=0" alt="Parrot OS" width="40" height="40"></a>
                 <a href="https://www.redhat.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
