@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, It's Georges Machhour !</h1>
 <h3 align="center">CCE student</h3>
 ```
+*
+*
+*    ____                                                __  __                  _       _                            
+*   / ___|   ___    ___    _ __    __ _    ___   ___    |  \/  |   __ _    ___  | |__   | |__     ___    _   _   _ __ 
+*  | |  _   / _ \  / _ \  | '__|  / _` |  / _ \ / __|   | |\/| |  / _` |  / __| | '_ \  | '_ \   / _ \  | | | | | '__|
+*  | |_| | |  __/ | (_) | | |    | (_| | |  __/ \__ \   | |  | | | (_| | | (__  | | | | | | | | | (_) | | |_| | | |   
+*   \____|  \___|  \___/  |_|     \__, |  \___| |___/   |_|  |_|  \__,_|  \___| |_| |_| |_| |_|  \___/   \__,_| |_|   
+*                                 |___/                                                                               
+*
+* root:~# Pursuing a degree in Computer and Telecommunication Engineer (CCE)
+* root:~# Specializing in Systems and Networks
+* root:~# Backe-End developer at NELCOM DIGITAL
+* root:~# Interested in Cyber Security and Ethical Hacking
+*
+*
+*
+*
+```
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/georges-machhour-5993b1291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Georges Machhour" height="30" width="40" /></a>
