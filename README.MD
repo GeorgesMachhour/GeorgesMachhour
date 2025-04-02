@@ -32,7 +32,8 @@
    <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.330661976.3438/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" alt="kali" width="40" height="40"/> </a> 
 <a href="https://www.parrotsec.org" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.5882d0fb110b778a2887634304423e61?rik=tXxqvcFYygX4vA&pid=ImgRaw&r=0" alt="Parrot OS" width="40" height="40"></a>
 <a href="https://www.redhat.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/> </a>
-<img src="https://seeklogo.com/images/N/node-js-logo-F4F55CD2D0-seeklogo.com.png" alt="Node JS" width="33" height="35"/>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/node-js-logo-F4F55CD2D0-seeklogo.com.png" alt="Node JS" width="33" height="35" width="40" height="40"/> </a>
+
 
 <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://www.unixmen.com/wp-content/uploads/2014/03/ubuntu-logo.png" alt="UBUNTU" width="40" height="40"></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
